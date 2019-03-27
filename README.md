@@ -7,3 +7,4 @@ If you have a distributed messaging system, and you want to do some rare RPC pat
 
 This is a quick sketch of how to handle the waiting-for-reply part using C# async/await and Tasks.
 
+![](https://github.com/i-e-b/MonitorAsync/raw/master/Layout.png)
